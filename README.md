@@ -1,6 +1,6 @@
-# ByteBandits - Algorand Smart Contract Assistant
+# AlgoMate - Algorand Smart Contract Assistant
 
-ByteBandits is a VS Code extension that enhances Algorand smart contract development with AI-powered assistance. It helps developers create, edit, and deploy smart contracts more efficiently on the Algorand blockchain.
+AlgoMate is a VS Code extension that enhances Algorand smart contract development with AI-powered assistance. It helps developers create, edit, and deploy smart contracts more efficiently on the Algorand blockchain.
 
 ## ✨ Features
 
